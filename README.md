@@ -4,8 +4,6 @@
 
 **LDCE Connect** is a cross-platform mobile application built with **Flutter** that serves as a comprehensive digital hub for the **L.D. College of Engineering (LDCE)** alumni community. 
 
-> ⚠️ **Note:** This project is no longer actively maintained.
-
 ---
 
 ## ✨ Features
